@@ -19,6 +19,7 @@
 - Java
 - Python (work in progress)
 - C++ (work in progress)
+- Bash Scripting
 
 ### Organizations & Positions
 
@@ -27,3 +28,8 @@
 - Biomedical Engineering Society (Secretary)
 - Society of Women Engineers (Social Media Chair)
 - Resident Assistant for Res Life & Housing
+
+### Explore Projects
+This repo consists of all projects that I have worked on throughout my college career or what I have learned on my own. This is also the best way to show what I have learned and how I have applied my skills!
+
+[Coding Repo](https://github.com/kkoppin001/Personal-Coding/blob/main/README.md)
