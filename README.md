@@ -1,16 +1,7 @@
 # Hi! I'm Kalli! 🩵 
 
----
-## 📚 School
+I am currently studying for a Bachelor of Science degree in Computer Science and a Cyber Security Analytics Certificate! I am an avid Mac user! <3
 
-### 🐺 Wright State (2022 - 2026)
-- I attend Wright State University majoring in Computer Science
-- I am set to graduate in Spring of 2026 with a Cyber Security Analytics Certificate & Bachelor of Science in Computer Science
-
-### ⚡ Northmont High School (2018 - 2022)
-- I graduated high school in 2022 with a 3.98 G.P.A and in Honor Roll for all 4 years
-- I was involved in NJROTC with my final position being the Cadet Master Chief Petty Officer
-- I was Senior Editor on the Yearbook Staff for the 21-22 school year
 ---
 
 ## 💻 Technology
