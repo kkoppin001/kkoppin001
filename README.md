@@ -1,4 +1,4 @@
-# Hi! I'm Kalli! 🩵 
+# 🩵 Hi! I'm Kalli! 🩵 
 
 I am currently studying for a Bachelor of Science degree in Computer Science and a Cyber Security Analytics Certificate! I am an avid Mac user! <3
 
@@ -20,10 +20,10 @@ I am currently studying for a Bachelor of Science degree in Computer Science and
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/about-aws/)
 ---
 
-## Organizations & Positions
+## ✨ Organizations & Positions
 
-- Engineers Without Borders (President)
-- Alpha Omicron Pi Sorority (VP of Recruitment)
-- Society of Women Engineers (Social Media Chair)
-- Resident Assistant for Res Life & Housing
+- 🌎 [Engineers Without Borders - President (January 24 - Current)](https://www.ewbwrightstate.com/)
+- 💜 [College Panhellenic Council - VP Recruitment (January 2025 - Current)](https://www.wright.edu/student-affairs/student-involvement-and-leadership/college-panhellenic-council)
+- 🌹 [Alpha Omicron Pi Sorority - VP of Recruitment (January 2024 - December 2024)](https://wright.alphaomicronpi.org/)
+- ⚙ [Society of Women Engineers (General Member) (January 2024 - Current)](https://www.instagram.com/swe_wsu/?hl=en)
 
