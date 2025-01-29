@@ -1,4 +1,4 @@
-# 🩵 Hi! I'm Kalli! 🩵 
+# 🩵 Hi! I'm Kalli! 
 
 I am currently studying for a Bachelor of Science degree in Computer Science and a Cyber Security Analytics Certificate! I am an avid Mac user! <3
 
