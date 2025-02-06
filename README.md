@@ -50,4 +50,4 @@ I am currently studying for a Bachelor of Science degree in Computer Science and
 ---
 
 ### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoppin001&layout=compact&theme=radical)
