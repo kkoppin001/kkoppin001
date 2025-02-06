@@ -50,4 +50,4 @@ I am currently studying for a Bachelor of Science degree in Computer Science and
 ---
 
 ### 📊 Stats
-![Repo Language Stats](https://github-readme-stats.vercel.app/api/pin/?username=kkoppin001&repo=Personal-coding&theme=radical)
+![Repo Language Stats](https://github-readme-stats.vercel.app/api/pin/?username=kkoppin001&repo=Personal-Coding&theme=radical)
