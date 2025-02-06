@@ -49,5 +49,3 @@ I am currently studying for a Bachelor of Science degree in Computer Science and
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalli-koppin-61abb6252/)
 ---
 
-### 📊 Stats
-![Repo Language Stats](https://github-readme-stats.vercel.app/api/pin/?username=kkoppin001&repo=Personal-Coding&theme=radical)
