@@ -1,7 +1,7 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Kalli 
+- Email: Koppin.5@wright.edu
 
 ## Part 1 - GitHub Profile
 
