@@ -19,17 +19,6 @@ I am currently studying for a Bachelor of Science degree in Computer Science and
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ---
 
-### 📚 Coursework
-
-- Computer Science I and II
-- Discrete Structures & Algorithms
-- Operating Systems Concepts & Usage
-- Introduction to the Design of Information Technology Systems
-- Introduction to Cyber Security
-- Technical Communications for Engineers & Computer Scientists
-- Data Structures & Algorithms
----
-
 ### 🌟 Featured Projects (My favorites)
 
 - 🔑 **Multi-Threaded Password Cracker (Java)**
@@ -40,6 +29,19 @@ I am currently studying for a Bachelor of Science degree in Computer Science and
 
 - 🔤 **Alphabet Trie (C++)**
     - A user inputs a prefix of a word and the program will read the file and compare the input to words in the file and show all the words that have the same prefix.
+---
+
+### 📚 Coursework
+
+- Computer Science I and II
+- Discrete Structures & Algorithms
+- Operating Systems Concepts & Usage
+- Introduction to the Design of Information Technology Systems
+- Introduction to Cyber Security
+- Technical Communications for Engineers & Computer Scientists
+- Data Structures & Algorithms
+- Security Attacks & Defenses
+- Cyber Network Security
 ---
 
 ### 🤝 Connect With Me!
