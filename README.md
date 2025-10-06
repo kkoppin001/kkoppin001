@@ -15,8 +15,6 @@ I am currently pursuing a Bachelor of Science degree in Computer Science and a C
 
 ---
 
----
-
 ### 🔨 Tools
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) 
