@@ -1,6 +1,6 @@
 ## 🩵 Hi! I'm Kalli! 
 
-I am currently pursuing a Bachelor of Science degree in Computer Science and a Cybersecurity Analytics Certificate at Wright State University. I am an avid Apple user! <3
+I am currently pursuing a Bachelor of Science degree in Computer Science and a Cybersecurity Analytics Certificate at Wright State University <3
 
 ---
 
