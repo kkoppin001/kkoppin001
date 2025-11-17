@@ -49,6 +49,9 @@ I am currently pursuing a Bachelor of Science degree in Computer Science and a C
 - Data Structures & Algorithms
 - Security Attacks & Defenses
 - Cyber Network Security
+- Intro to Software Engineering
+- Secure Computing Practices
+- Computer Graphics
 ---
 
 ### 🤝 Connect With Me!
