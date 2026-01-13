@@ -1,6 +1,6 @@
 # Paragraph
 ### Indentations
-space before words
+**space** before words
 
 ### Sentences
-make a story of words
+make a *story* of words
