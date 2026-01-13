@@ -1,3 +1,6 @@
 # Paragraph
+### Indentations
+space before words
 
-A paragraph is a bunch of words.
+### Sentences
+make a story of words
