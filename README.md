@@ -25,7 +25,7 @@ I am currently pursuing a Bachelor of Science degree in Computer Science and a C
 
 ---
 
-### 🌟 Featured Projects (My favorites testing testing!)
+### 🌟 Featured Projects (My favorites)
 
 - 🔑 **Multi-Threaded Password Cracker (Java)**
     - Runs a number of threads and will try to break the password that is put onto the Zip file and then extract the contents and put it in a separate folder
