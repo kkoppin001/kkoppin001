@@ -36,6 +36,9 @@ I am currently pursuing a Bachelor of Science degree in Computer Science and a C
 
 - 🔤 **Alphabet Trie (C++)**
     - A user inputs a prefix of a word and the program will read the file and compare the input to words in the file and show all the words that have the same prefix.
+ 
+- 🦎 **KAMA University Schedule Generator (Team Project - UI/UX)**
+    - A student user logs in and will be prompted to generate a schedule as well as adjust preferences for course scheduling and display the generated schedule back to the user.
 
 ---
 
