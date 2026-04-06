@@ -1,6 +1,6 @@
 ## 🩵 Hi! I'm Kalli! 
 
-I am currently pursuing a Bachelor of Science degree in Computer Science and a Cybersecurity Analytics Certificate at Wright State University <3
+I am currently pursuing a Bachelor of Science degree in Computer Science at Wright State University <3
 
 ---
 
@@ -26,36 +26,22 @@ I am currently pursuing a Bachelor of Science degree in Computer Science and a C
 
 ---
 
-### 🌟 Featured Projects (My favorites)
+### 🌟 Certifications
 
-- 🔑 **Multi-Threaded Password Cracker (Java)**
-    - Runs a number of threads and will try to break the password that is put onto the Zip file and then extract the contents and put it in a separate folder
-
-- ⌨️ **Word Game (Java)**
-    - A simple word game based on one from the New York Times, Spelling Bee. In this game, a user tries to make as many valid words as possible from a list of letters to get the highest score that they can.
-
-- 🔤 **Alphabet Trie (C++)**
-    - A user inputs a prefix of a word and the program will read the file and compare the input to words in the file and show all the words that have the same prefix.
- 
-- 🦎 **KAMA University Schedule Generator (Team Project - UI/UX)**
-    - A student user logs in and will be prompted to generate a schedule as well as adjust preferences for course scheduling and display the generated schedule back to the user.
+- Cybersecurity Analytics Certificate - Wright State University
 
 ---
 
 ### 📚 Coursework
 
-- Computer Science I and II
 - Discrete Structures & Algorithms
 - Operating Systems Concepts & Usage
 - Introduction to the Design of Information Technology Systems
-- Introduction to Cyber Security
-- Technical Communications for Engineers & Computer Scientists
 - Data Structures & Algorithms
 - Security Attacks & Defenses
-- Cyber Network Security
 - Intro to Software Engineering
-- Secure Computing Practices
 - Computer Graphics
+  
 ---
 
 ### 🤝 Connect With Me!
