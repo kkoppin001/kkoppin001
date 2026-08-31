@@ -46,7 +46,7 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
   
 ---
 
-## 📎 Selected Work
+### 📎 Selected Work
 
 - **Death Star Vulnerability Detection & Secure Transmission System** — Senior Design project lead. Raspberry Pi + OpenCV image detection pipeline, Flask web app with two-factor email OTP auth, RF transmission over RFM69, deployed as a systemd service.
 - **KAMA DegreeAdmin** — HTML + CSS + JavaScript + Python + MariaDB. Frontend lead and project coordinator; degree-planning platform. Frontend lead and project coordinator; built schedule generation, GPA calculator, PDF export, and co-op planning.
@@ -61,14 +61,14 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:koppin.5@wright.edu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalli-koppin-61abb6252/)
 
 ---
 
-## Stats
+### 📊 Stats
 
 [![](https://raw.githubusercontent.com/kkoppin001/kkoppin001/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kkoppin001/kkoppin001/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kkoppin001/kkoppin001/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
