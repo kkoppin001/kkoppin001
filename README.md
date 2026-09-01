@@ -46,10 +46,10 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
   
 ---
 
-### 📎 Selected Work
+### 📎 Projects
 
-- **Death Star Vulnerability Detection & Secure Transmission System** — Senior Design project lead. Raspberry Pi + OpenCV image detection pipeline, Flask web app with two-factor email OTP auth, RF transmission over RFM69, deployed as a systemd service.
-- **KAMA DegreeAdmin** — HTML + CSS + JavaScript + Python + MariaDB. Frontend lead and project coordinator; degree-planning platform. Frontend lead and project coordinator; built schedule generation, GPA calculator, PDF export, and co-op planning.
+- **Death Star Vulnerability Detection & Secure Transmission System** — Senior Design project lead. Raspberry Pi + OpenCV image detection pipeline, Flask web app with two-factor PAT auth, RF transmission over RFM69, deployed as a systemd service.
+- **KAMA DegreeAdmin** — HTML + CSS + JavaScript + Python + MariaDB. Frontend lead and project coordinator; degree-planning platform. Frontend lead and project coordinator; built with schedule generation, Class Selection, PDF export, permissioned users, add/remove classes as admin, and co-op planning.
 
 ---
 
