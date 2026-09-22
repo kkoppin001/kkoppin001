@@ -29,23 +29,6 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 
 ---
 
-### 🌟 Certifications
-
-- Cybersecurity Analytics Certificate - Wright State University
-
----
-
-### 📚 Coursework
-
-- Introduction to the Design of Information Technology Systems
-- Data Structures & Algorithms
-- Security Attacks & Defenses
-- Intro to Software Engineering
-- Computer Graphics
-- Operating Systems Internals & Design
-  
----
-
 ### 📎 Projects
 
 - **Death Star Vulnerability Detection & Secure Transmission System** — Senior Design project lead. Raspberry Pi + OpenCV image detection pipeline, Flask web app with two-factor PAT auth, RF transmission over RFM69, deployed as a systemd service.
@@ -67,12 +50,3 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalli-koppin-61abb6252/)
 
 ---
-
-### 📊 Stats
-
-[![](https://raw.githubusercontent.com/kkoppin001/kkoppin001/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkoppin001/kkoppin001/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kkoppin001/kkoppin001/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkoppin001/kkoppin001/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kkoppin001/kkoppin001/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
----
-
