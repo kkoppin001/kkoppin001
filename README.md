@@ -38,7 +38,7 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 
 ### 📎 Projects
 
-- **[WSU Classroom (https://github.com/wrightedu/Classroom)]**
+- **[WSU Classroom] (https://github.com/wrightedu/Classroom)**
   - Project Lead responsible for development, feature planning, and continued maintenance
     - Command-line tool designed to simplify and automate GitHub-based classroom management at Wright State University.
     - Built primarily with Bash and the GitHub CLI (gh)
