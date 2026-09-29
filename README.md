@@ -6,6 +6,8 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 
 ### 📋 Coding Languages
 
+[![Ruby](https://img.shields.io/badge/Ruby-E0115F?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Racket](https://img.shields.io/badge/Racket-7A1F2B?style=for-the-badge&logo=racket&logoColor=white)](https://racket-lang.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -23,21 +25,42 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/about-aws/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-2E8B57?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/get-started/docker-overview/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-5145CD?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-A78BFA?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-21152B?style=for-the-badge&logo=github&logoColor=white)](https://cli.github.com/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
-[![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-21152B?style=for-the-badge&logo=github&logoColor=white)](https://cli.github.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-5145CD?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-2E8B57?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ---
 
 ### 📎 Projects
 
-- **Death Star Vulnerability Detection & Secure Transmission System** — Senior Design project lead. Raspberry Pi + OpenCV image detection pipeline, Flask web app with two-factor PAT auth, RF transmission over RFM69, deployed as a systemd service.
-- **KAMA DegreeAdmin** — HTML + CSS + JavaScript + Python + MariaDB. Frontend lead and project coordinator; degree-planning platform. Frontend lead and project coordinator; built with schedule generation, Class Selection, PDF export, permissioned users, add/remove classes as admin, and co-op planning.
+- **[WSU Classroom (https://github.com/wrightedu/Classroom)]**
+  - Project Lead responsible for development, feature planning, and continued maintenance
+    - Command-line tool designed to simplify and automate GitHub-based classroom management at Wright State University.
+    - Built primarily with Bash and the GitHub CLI (gh)
+    - Automates repository creation and management for course assignments
+    - Handles roster-based student repository creation and naming
+    - Supports GitHub organizations and template repositories
+
+- **Death Star Vulnerability Detection & Secure Transmission System**
+  - Senior Design project focused on image detection, secure communication, and embedded systems.
+    - Led development of the project
+    - Built a Raspberry Pi + OpenCV image detection pipeline
+    - Developed a Flask web application with two-factor PAT authentication
+    - Implemented RF communication using RFM69
+    - Deployed the application as a Linux systemd service
+    
+- **[KAMA DegreeAdmin (https://github.com/WSU-kduncan/KAMA-University)]**
+  - Frontend Lead & Project Coordinator responsible for frontend development, UI implementation, and team coordination
+    - Degree-planning platform designed to help students build and manage academic plans.
+    - Built with HTML, CSS, JavaScript, Python, and MariaDB
+    - Implemented schedule generation and class selection
+    - Developed permission-based user and administrator features
+    - Supported co-op and long-term degree planning
 
 ---
 
