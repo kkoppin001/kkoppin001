@@ -76,7 +76,7 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:koppin.5@wright.edu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalli-koppin-61abb6252/)
-[![Handshake](https://img.shields.io/badge/Handshake-6CDDB3?style=for-the-badge&logo=handshake&logoColor=white)](https://app.joinhandshake.com/profiles/kalli-koppin)
+[![Handshake](https://img.shields.io/badge/Handshake-BFD95A?style=for-the-badge&logo=handshake&logoColor=black)](https://app.joinhandshake.com/profiles/kalli-koppin)
 [![Resume](https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/kkoppin001/kkoppin001/blob/main/resume.md)
 
 ---
