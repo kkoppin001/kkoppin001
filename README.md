@@ -38,7 +38,7 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 
 ### 📎 Projects
 
-- **[WSU Classroom] (https://github.com/wrightedu/Classroom)**
+- **[WSU Classroom](https://github.com/wrightedu/Classroom)**
   - Project Lead responsible for development, feature planning, and continued maintenance
     - Command-line tool designed to simplify and automate GitHub-based classroom management at Wright State University.
     - Built primarily with Bash and the GitHub CLI (gh)
@@ -54,7 +54,7 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
     - Implemented RF communication using RFM69
     - Deployed the application as a Linux systemd service
     
-- **[KAMA DegreeAdmin (https://github.com/WSU-kduncan/KAMA-University)]**
+- **[KAMA DegreeAdmin](https://github.com/WSU-kduncan/KAMA-University)**
   - Frontend Lead & Project Coordinator responsible for frontend development, UI implementation, and team coordination
     - Degree-planning platform designed to help students build and manage academic plans.
     - Built with HTML, CSS, JavaScript, Python, and MariaDB
