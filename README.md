@@ -1,4 +1,4 @@
-# 🩵 Hi! I'm Kalli!
+# Hi! I'm Kalli!
 
 Currently pursuing a Master's of Science Cybersecurity at Wright State University <3
 
