@@ -12,8 +12,8 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://css3.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 
 ---
 
@@ -25,9 +25,12 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/get-started/docker-overview/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-A78BFA?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
-[![Flutter](https://img.shields.io/badge/Flutter-A78BFA?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-21152B?style=for-the-badge&logo=github&logoColor=white)](https://cli.github.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-5145CD?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-2E8B57?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ---
 
