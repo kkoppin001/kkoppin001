@@ -26,6 +26,7 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/about-aws/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-2E8B57?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Android Emulator](https://img.shields.io/badge/Android_Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio/run/emulator)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/get-started/docker-overview/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-5145CD?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
