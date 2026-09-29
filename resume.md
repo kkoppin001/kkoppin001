@@ -1,6 +1,7 @@
-<h1 align="center">Kalli Koppin</h1>
-<p align="center">(937) 430-3665 | kallikoppin@gmail.com | Dayton, Ohio</p>
-
+\begin{center}
+\textbf{\LARGE Kalli Koppin}\[3pt]
+(937) 430-3665 $\mid$ kallikoppin@gmail.com $\mid$ Dayton, Ohio
+\end{center}
 ---
 
 ## EDUCATION
