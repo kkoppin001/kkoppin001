@@ -49,7 +49,7 @@ Currently pursuing a Master's of Science Cybersecurity at Wright State Universit
 
 - **Death Star Vulnerability Detection & Secure Transmission System**
   - Senior Design project focused on image detection, secure communication, and embedded systems.
-    - Led development of the project
+    - Led frontend and software development of the project
     - Built a Raspberry Pi + OpenCV image detection pipeline
     - Developed a Flask web application with two-factor PAT authentication
     - Implemented RF communication using RFM69
